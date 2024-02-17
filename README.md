@@ -1,6 +1,10 @@
-Hi there 👋
+![15e7e300166c962d3b8a22f60b5cac9e](https://github.com/RITHAS7/RITHAS7/assets/109912070/846d4236-ba1e-4989-b488-aa248e0ab093)
 
-🌱 I’m currently learning Web Development
+<h1 align="center">🌇RITHAS🌆</h1>
+<h3 align="center">QA</h3>
+
+- 🔭 I’m currently working through MDN Guide
+- 🌱 I’m currently learning Web Development
 
 <!--
 **RITHAS7/RITHAS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
